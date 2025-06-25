@@ -14,4 +14,9 @@
       <initValue>[]</initValue>
       <name>historisValues</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>[]</initValue>
+      <name>flatValues</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

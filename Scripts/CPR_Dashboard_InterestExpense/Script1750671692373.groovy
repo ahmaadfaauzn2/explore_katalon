@@ -87,8 +87,8 @@ elements.each({ def element ->
 // Collect and clean values
 GlobalVariable.dashboardValues = elements.collect {
 	String rawValue = it.getAttribute('aria-label').trim()
-	String cleanedValue = rawValue.replaceAll(",", "") // Remove commas
-	return cleanedValue
+//	String cleanedValue = rawValue.replaceAll(",", "") // Remove commas
+//	return cleanedValue
 }
 
 println('Cleaned Dashboard Values: ' + GlobalVariable.dashboardValues)

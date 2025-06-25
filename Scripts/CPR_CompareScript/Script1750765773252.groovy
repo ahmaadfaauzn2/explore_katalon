@@ -22,22 +22,17 @@ WebUI.callTestCase(findTestCase('CPR_Dashboard_InterestExpense'), [:], FailureHa
 WebUI.callTestCase(findTestCase('CPR_Historis'), [:], FailureHandling.STOP_ON_FAILURE)
 
 List<String> dashboardValues = GlobalVariable.dashboardValues ?: []
-List<String> historisValues = GlobalVariable.historisValues ?: []
-
-if (dashboardValues.isEmpty() || historisValues.isEmpty()) {
-    println("❌ One or both variables are not initialized!")
-    println("Dashboard Values: " + dashboardValues)
-    println("Historis Values: " + historisValues)
-    return
-}
+// Convert historisValues to a flat list of values for comparison
+List<String> flatHistorisValues = GlobalVariable.historisValues.collectMany { it.values }
+GlobalVariable.historisValues = flatHistorisValues // Now it holds only values
 
 // Perform comparison
-if (dashboardValues.equals(historisValues)) {
+if (dashboardValues.equals(GlobalVariable.historisValues)) {
     println("✅ Values match!")
 } else {
     println("❌ Mismatch detected!")
     println("Dashboard Values: " + dashboardValues)
-    println("Historis Values: " + historisValues)
+    println("Historis Values: " + GlobalVariable.historisValues)
 }
 
 
