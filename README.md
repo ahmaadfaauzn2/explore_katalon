@@ -255,56 +255,8 @@ pipeline {
 - [Getting Started with Katalon Studio](https://docs.katalon.com/katalon-studio/docs/getting-started.html)
 - [Best Practices for Test Automation](https://docs.katalon.com/katalon-studio/docs/automation-best-practices.html)
 
-### Useful Plugins
-- **Katalon TestOps** - Test management platform
-- **Smart Wait** - Intelligent waiting mechanism
-- **Auto-healing** - Self-healing test objects
-
-## 🤝 Contributing
-
-Kontribusi sangat diterima! Silakan:
-
-1. Fork repository ini
-2. Buat feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit perubahan (`git commit -m 'Add amazing feature'`)
-4. Push ke branch (`git push origin feature/amazing-feature`)
-5. Buat Pull Request
-
-## 📝 Changelog
-
-### v1.0.0 (2024-06-XX)
-- Initial project setup
-- Basic web testing implementation
-- API testing examples
-- Git integration setup
-
-### v0.1.0 (2024-06-XX)
-- Project initialization
-- Basic structure setup
 
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👤 Author
-
-**Ahmad Fauzan**
-- GitHub: [@ahmaadfaauzn2](https://github.com/ahmaadfaauzn2)
-- LinkedIn: [Your LinkedIn Profile]
-
-## 🙏 Acknowledgments
-
-- Katalon Team untuk platform yang amazing
-- Katalon Community untuk support dan knowledge sharing
-- Contributors yang telah membantu project ini
-
----
-
-## 📞 Support
-
-Jika ada pertanyaan atau butuh bantuan:
-- Buka issue di repository ini
-- Diskusi di [Katalon Community Forum](https://forum.katalon.com/)
-- Email: your.email@example.com
-
-**Happy Testing! 🚀**
