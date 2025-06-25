@@ -101,41 +101,16 @@ Repository ini berisi test cases untuk aplikasi CPR (Credit Portfolio Risk/Corpo
 ### 📊 CPR Dashboard Test Cases
 
 #### 1. CPR_Dashboard_InterestExpense.tc
-Test case untuk verifikasi fitur Interest Expense di dashboard CPR:
-- Validasi perhitungan interest expense
-- Verifikasi tampilan data expense
-- Testing filter dan sorting data expense
-- Validasi export/report expense data
 
 #### 2. CPR_Dashboard_InterestIncome.tc  
-Test case untuk verifikasi fitur Interest Income di dashboard CPR:
-- Validasi perhitungan interest income
-- Verifikasi tampilan data income
-- Testing filter berdasarkan periode
-- Validasi akurasi data income
+
 
 #### 3. CPR_Dashboard_NetInterestIncome.tc
-Test case untuk verifikasi Net Interest Income (NII):
-- Validasi perhitungan NII (Income - Expense)
-- Verifikasi formula kalkulasi
-- Testing berbagai skenario data
-- Validasi tampilan grafik/chart NII
-
-### 🔍 CPR Historis And Compare Test Cases
 
 #### 4. CPR_Historis.tc
-Test case untuk fitur historical data analysis:
-- Testing akses data historis
-- Verifikasi filtering berdasarkan periode
-- Validasi trend analysis
-- Testing export historical reports
+
 
 #### 5. CPR_CompareScript.tc
-Test case untuk fitur comparison/benchmark:
-- Testing perbandingan data antar periode
-- Validasi script comparison logic
-- Verifikasi accuracy hasil perbandingan
-- Testing various comparison scenarios
 
 
 ### 🔧 Test Case Structure Example
