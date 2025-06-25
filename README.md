@@ -178,28 +178,7 @@ WebUI.verifyElementPresent(findTestObject('Dashboard/tbl_filtered_data'), 10)
 WebUI.closeBrowser()
 ```
 
-## 🔧 Custom Keywords
 
-Custom keywords yang dibuat khusus untuk testing aplikasi CPR:
-
-### CPRKeywords
-- `loginToCPR(username, password)` - Login ke aplikasi CPR
-- `navigateToDashboard()` - Navigasi ke dashboard utama
-- `validateInterestCalculation(expected, actual)` - Validasi perhitungan interest
-- `exportDashboardData(format)` - Export data dashboard
-- `waitForDataLoad()` - Wait untuk loading data selesai
-
-### DatabaseKeywords
-- `connectToCPRDatabase()` - Koneksi ke database CPR
-- `executeInterestQuery(query)` - Eksekusi query interest data
-- `validateDatabaseConsistency()` - Validasi konsistensi data
-- `getHistoricalData(startDate, endDate)` - Ambil data historis
-
-### UtilityKeywords
-- `generateTestData()` - Generate data test untuk CPR
-- `calculateExpectedNII(income, expense)` - Kalkulasi expected NII
-- `formatCurrency(amount)` - Format currency display
-- `captureScreenshotWithTimestamp()` - Screenshot dengan timestamp
 
 ## Hasil
 ![image](https://github.com/user-attachments/assets/94b0aac0-dda4-44ae-aa8d-264e323ee67f)
