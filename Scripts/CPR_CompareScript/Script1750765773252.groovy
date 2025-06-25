@@ -21,18 +21,49 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('CPR_Dashboard_InterestExpense'), [:], FailureHandling.STOP_ON_FAILURE)
 WebUI.callTestCase(findTestCase('CPR_Historis'), [:], FailureHandling.STOP_ON_FAILURE)
 
-List<String> dashboardValues = GlobalVariable.dashboardValues ?: []
-// Convert historisValues to a flat list of values for comparison
-List<String> flatHistorisValues = GlobalVariable.historisValues.collectMany { it.values }
-GlobalVariable.historisValues = flatHistorisValues // Now it holds only values
+/*
+ * // Initialize flatValues to match historis output List<String> flatValues =
+ * GlobalVariable.historisValues.collectMany { historisEntry ->
+ * historisEntry.values.collect { value ->
+ * "${historisEntry.description} (${historisEntry.segmentType}) $value." } }
+ * 
+ * // Update GlobalVariable with the correct flatValues
+ * GlobalVariable.historisValues = flatValues
+ * 
+ * // Print the historis values for verification
+ * println("=== FINAL FLAT VALUES ===") println("flatValues: " +
+ * GlobalVariable.historisValues)
+ * 
+ * // Perform comparison with Dashboard Values List<String> dashboardValues =
+ * GlobalVariable.dashboardValues ?: [] if
+ * (dashboardValues.equals(GlobalVariable.historisValues)) {
+ * println("✅ Values match!") } else { println("❌ Mismatch detected!")
+ * println("Dashboard Values: " + dashboardValues) println("Historis Values: " +
+ * GlobalVariable.historisValues) } }
+ * 
+ * 
+ */
 
-// Perform comparison
-if (dashboardValues.equals(GlobalVariable.historisValues)) {
-    println("✅ Values match!")
-} else {
-    println("❌ Mismatch detected!")
-    println("Dashboard Values: " + dashboardValues)
-    println("Historis Values: " + GlobalVariable.historisValues)
+// Initialize flatValues to match historis output
+List<String> flatValues = GlobalVariable.historisValues.collectMany { historisEntry ->
+	historisEntry.values.collect { value ->
+		"${historisEntry.description} (${historisEntry.segmentType}) $value."
+	}
 }
 
+// Update GlobalVariable with the correct flatValues
+GlobalVariable.historisValues = flatValues
 
+// Print the historis values for verification
+println("=== FINAL FLAT VALUES ===")
+println("flatValues: " + GlobalVariable.historisValues)
+
+// Perform comparison with Dashboard Values
+List<String> dashboardValues = GlobalVariable.dashboardValues ?: []
+if (dashboardValues.equals(GlobalVariable.historisValues)) {
+	println("✅ Values match!")
+} else {
+	println("❌ Mismatch detected!")
+	println("Dashboard Values: " + dashboardValues)
+	println("Historis Values: " + GlobalVariable.historisValues)
+}
