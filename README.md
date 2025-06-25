@@ -5,10 +5,7 @@ Repository ini berisi eksplorasi dan pembelajaran tentang Katalon Studio dengan 
 ## 📋 Deskripsi
 
 Project ini dibuat untuk mengotomatisasi testing aplikasi CPR yang mencakup:
-- Dashboard monitoring untuk Interest Income, Interest Expense, dan Net Interest Income
-- Fitur analisis data historis
-- Sistem perbandingan data antar periode
-- Validasi akurasi kalkulasi finansial
+- Sistem perbandingan data antar dashboard dan historis
 
 ## 🚀 Fitur yang Dieksplorasi
 
@@ -54,6 +51,8 @@ Project ini dibuat untuk mengotomatisasi testing aplikasi CPR yang mencakup:
    - Buka Katalon Studio
    - File → Open Project
    - Pilih folder project ini
+   - Buat global variable di profiles historisValues dan dashboardValues
+   - Jalankan CPR_CompareScript
 
 4. **Konfigurasi Browser Drivers**
    - Pastikan WebDriver sudah terinstall
@@ -202,13 +201,9 @@ Custom keywords yang dibuat khusus untuk testing aplikasi CPR:
 - `formatCurrency(amount)` - Format currency display
 - `captureScreenshotWithTimestamp()` - Screenshot dengan timestamp
 
-## 📊 Reporting
+## Hasil
+![image](https://github.com/user-attachments/assets/94b0aac0-dda4-44ae-aa8d-264e323ee67f)
 
-Project ini menggunakan beberapa jenis reporting:
-- **Katalon Analytics** - Cloud-based reporting
-- **Custom HTML Reports** - Report HTML custom
-- **Allure Reports** - Detailed test reports
-- **JUnit Reports** - Untuk integrasi CI/CD
 
 ## 🔗 Integrasi
 
