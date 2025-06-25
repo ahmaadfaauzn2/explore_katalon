@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Get All Konsumer</name>
+   <tag></tag>
+   <elementGuidId>56cb186f-3e30-4342-a5e7-9ad83bf5c3b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@onclick='SelectAllDropdwonKonsumerProduct()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Get All Konsumer&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f561c745-58a7-489b-b96d-4d9103a59f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-block btn-success</value>
+      <webElementGuid>aaaefe89-17fe-41da-968d-4e151dd94fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>SelectAllDropdwonKonsumerProduct()</value>
+      <webElementGuid>a0c3cf86-1437-422a-984c-7fd2500d3dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get All Konsumer</value>
+      <webElementGuid>3c0b2a21-f4c7-4b42-b644-6defe31a6bd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DivParameterSearch&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;mx-3&quot;]/a[@id=&quot;CheckListAllChain&quot;]/p[@class=&quot;btn btn-block btn-success&quot;]</value>
+      <webElementGuid>b1de0f6a-6f9d-4b10-b437-b861ee847dc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@onclick='SelectAllDropdwonKonsumerProduct()']</value>
+      <webElementGuid>ef1cfc9b-964a-420f-88b3-dad515952c1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='CheckListAllChain']/p)[2]</value>
+      <webElementGuid>eb32215f-6713-4b9b-88a2-30461f0d3ede</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konsumer (Shareholder, Management(Komisaris dan Direksi), Pegawai)'])[1]/following::p[1]</value>
+      <webElementGuid>b16a7e3a-7bae-46ba-8518-7a0fdc9d7c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total: 0'])[2]/following::p[1]</value>
+      <webElementGuid>bef241a5-7653-4832-affa-76fdb4eba072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total: 0'])[3]/preceding::p[1]</value>
+      <webElementGuid>21cb6b65-6394-4a8e-b286-7116ca67d2d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::p[1]</value>
+      <webElementGuid>f7e4ebf0-1832-4f25-93af-8107efa8cd01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get All Konsumer']/parent::*</value>
+      <webElementGuid>ed70c597-b898-4da3-9acc-33436006e960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/div/a/p</value>
+      <webElementGuid>91d00b93-08b3-42f9-bf71-5479944d4e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Get All Konsumer' or . = 'Get All Konsumer')]</value>
+      <webElementGuid>7261966e-ddab-4df0-ba78-8e5be2dec611</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_9014551301 - VANADIUM M E</name>
+   <tag></tag>
+   <elementGuidId>4fbb5797-1b96-49c7-884e-8bf4b154b846</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-DebiturExistingId-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='select2-DebiturExistingId-results']//li[contains(text(), 'VANADIUM M E')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;×9014551301 - VANADIUM M E&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>13fc6d73-e9d2-4474-be8c-22b4b125b157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>c6a0d579-60b1-45a8-ae93-909a121eda59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-DebiturExistingId-container</value>
+      <webElementGuid>f06362b6-28ec-4b24-9c30-347659aba4ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>9014551301 - VANADIUM M E</value>
+      <webElementGuid>ccd72fef-2cb9-4fbe-b9ac-d9fc64b740a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×9014551301 - VANADIUM M E</value>
+      <webElementGuid>62871a1d-8529-41d8-920f-3a74036c304f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-DebiturExistingId-container&quot;)</value>
+      <webElementGuid>7d459a4f-7f40-45d0-99ed-19c4fd59ac96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-DebiturExistingId-container']</value>
+      <webElementGuid>f22020e0-1b0e-4cb7-bd19-69646f6056d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divGroup']/div/div/span/span/span/span</value>
+      <webElementGuid>1d430030-fdf8-4a7d-bb35-54cdc94cf665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[4]</value>
+      <webElementGuid>aa21e762-1bfa-4851-8be5-0fe501881a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span</value>
+      <webElementGuid>e2ae91ea-ecbc-4585-8622-d8248a6e302e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-DebiturExistingId-container' and @title = '9014551301 - VANADIUM M E' and (text() = '×9014551301 - VANADIUM M E' or . = '×9014551301 - VANADIUM M E')]</value>
+      <webElementGuid>15decfe9-3764-43f8-8d5c-d3503c7f34e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

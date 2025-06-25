@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CPR_Dashboard_InterestIncome</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96580c50-64d6-4a6c-8206-870c5a4a15c9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_9014551301 - VANADIUM M E</name>
+   <tag></tag>
+   <elementGuidId>f303f567-7a3b-4b6f-8542-4fcedda06174</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.select2-selection__choice</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DivParameterSearch']/div/div[6]/div/span/span/span/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=listitem[name=&quot;9014551301 - VANADIUM M E&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>390d7f82-0dc2-4cca-a6d6-4063de0990ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__choice</value>
+      <webElementGuid>914fa861-8a06-42c9-aef4-885f70d1a1e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>9014551301 - VANADIUM M E</value>
+      <webElementGuid>4ae7ca86-6c69-4c7b-98f3-d92fe26e4a0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×9014551301 - VANADIUM M E</value>
+      <webElementGuid>32ff5b75-b986-400f-befb-a1721a07efe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DivParameterSearch&quot;)/div[@class=&quot;form-row&quot;]/div[@class=&quot;col-md-12 input-container&quot;]/div[@class=&quot;position-relative form-group&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--above select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--multiple&quot;]/ul[@class=&quot;select2-selection__rendered&quot;]/li[@class=&quot;select2-selection__choice&quot;]</value>
+      <webElementGuid>197db4ab-ac30-41de-a126-3c2cdd395599</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DivParameterSearch']/div/div[6]/div/span/span/span/ul/li</value>
+      <webElementGuid>5c0f2d1b-e53c-47f2-bc82-7a5cb1415b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debitur'])[1]/following::li[1]</value>
+      <webElementGuid>f0f5f418-0a44-4596-b608-840cd9f86586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-Silakan pilih-'])[4]/following::li[1]</value>
+      <webElementGuid>87fa36a8-746e-4700-a6e5-398fed001625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subsidiary'])[1]/preceding::li[2]</value>
+      <webElementGuid>272ad607-032f-4424-bad5-2c6e02f47a72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/ul/li</value>
+      <webElementGuid>608ba539-7b71-478e-a4bd-f486a964233a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@title = '9014551301 - VANADIUM M E' and (text() = '×9014551301 - VANADIUM M E' or . = '×9014551301 - VANADIUM M E')]</value>
+      <webElementGuid>d9e63053-d2ac-40e0-a149-f07dae868611</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

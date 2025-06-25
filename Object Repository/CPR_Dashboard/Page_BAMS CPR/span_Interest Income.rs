@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Interest Income</name>
+   <tag></tag>
+   <elementGuidId>d3f95f47-8b60-4597-b2f6-04fe3cec8605</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-jenisParameter-container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-jenisParameter-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Interest Income&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6b4bf6ce-6402-4b13-9fc1-3777ff2efa26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>0b159854-a222-4a9a-b7e7-33574cdc57db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-jenisParameter-container</value>
+      <webElementGuid>bb9802ad-b501-42b0-928a-ed214daa962e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Interest Income</value>
+      <webElementGuid>2ee8b41b-a98b-47f3-af75-70a45f51db2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Interest Income</value>
+      <webElementGuid>7fdad229-7c18-42a1-ad15-fc69eaf4b914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-jenisParameter-container&quot;)</value>
+      <webElementGuid>3781065a-86bc-4efb-b797-34a85d54c8cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-jenisParameter-container']</value>
+      <webElementGuid>ef94a2c3-7aa9-440f-898c-05b33773c80e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::span[4]</value>
+      <webElementGuid>5606a6cd-65b2-4c56-846c-f1ee9eeb5f54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/span/span/span/span</value>
+      <webElementGuid>5c0b0f77-1c94-4207-a4da-0f9fc597b074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-jenisParameter-container' and @title = 'Interest Income' and (text() = 'Interest Income' or . = 'Interest Income')]</value>
+      <webElementGuid>5d41828b-9fae-480f-bae3-6288d70ea9cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

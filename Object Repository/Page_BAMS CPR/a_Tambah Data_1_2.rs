@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tambah Data_1_2</name>
+   <tag></tag>
+   <elementGuidId>87cbad38-112b-4072-a547-6160f7c48bff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='EditValChain()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(5) > div.position-relative.form-group > div.row > div.col-lg-12 > div.main-card.mb-3.card > div.card-body > a.mb-2.btn.btn-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Tambah Data&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cd32f2ff-6d28-4570-85aa-6b8e11729f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>d5982db4-fe6a-474d-b349-e25d5d6b145e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-2 btn btn-success</value>
+      <webElementGuid>b63d9988-ac32-452a-bffc-095f6ea106a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>EditValChain()</value>
+      <webElementGuid>3f4db013-69dd-46ef-b666-7e886aea4373</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah Data</value>
+      <webElementGuid>9cfa7c5f-613c-41c4-92de-3c3c28f49602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FormData&quot;)/div[5]/div[@class=&quot;position-relative form-group&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;main-card mb-3 card&quot;]/div[@class=&quot;card-body&quot;]/a[@class=&quot;mb-2 btn btn-success&quot;]</value>
+      <webElementGuid>7be00542-2b25-4c25-a8a5-20d7db128ddf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='EditValChain()']</value>
+      <webElementGuid>958ec3e1-8cfa-4d0b-ad56-585d2eac0b8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='FormData']/div[5]/div/div/div/div/div/a</value>
+      <webElementGuid>a2a16b40-ff6d-4a6e-8afe-5b6f7b57634b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Tambah Data')])[3]</value>
+      <webElementGuid>6fc521b0-147f-4bbf-bd61-266f915171e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Value Chain (Buyer/ Distributor, Supplier/ Vendor/ KCLN/ Plasma)'])[1]/following::a[1]</value>
+      <webElementGuid>56287e56-203e-4369-adb0-13bf3d3f6991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::a[1]</value>
+      <webElementGuid>4a9c510a-6b11-4bd6-8230-a3b4c1ca4760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search:'])[2]/preceding::a[1]</value>
+      <webElementGuid>1762c857-f1a6-4e7c-a3a7-2b5549943517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[7]</value>
+      <webElementGuid>6feda6bc-8029-485d-a86e-b1e83a89bab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/a</value>
+      <webElementGuid>1a53a932-9ea1-4434-ad7c-aae5459d6b4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = ' Tambah Data' or . = ' Tambah Data')]</value>
+      <webElementGuid>e36b75b4-8cde-4a2b-8012-785544e048b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

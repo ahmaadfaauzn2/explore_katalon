@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cari Data</name>
+   <tag></tag>
+   <elementGuidId>67b6ec4d-71b4-4d75-a2ed-b85c9f116e79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.mt-2.btn.btn-success.pull-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='SubmitFilterDashboard()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Cari Data&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e2342c72-9304-4deb-92ad-6b45cad61d0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>d6b6aa10-ea6b-40d1-ac26-6a2b7b057483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-2 btn btn-success pull-left</value>
+      <webElementGuid>d8931e76-8b37-431e-a941-ccd01088da2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>SubmitFilterDashboard()</value>
+      <webElementGuid>d318dcf1-1d26-44a3-8084-0d8d785367b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cari Data</value>
+      <webElementGuid>0c6f0a23-c702-46b3-b382-6c48e2d920a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;app-container app-theme-white body-tabs-shadow fixed-sidebar fixed-header&quot;]/div[@class=&quot;app-main&quot;]/div[@class=&quot;app-main__outer&quot;]/div[@class=&quot;app-main__inner&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;main-card mb-3 card&quot;]/div[@class=&quot;card-body&quot;]/a[@class=&quot;mt-2 btn btn-success pull-left&quot;]</value>
+      <webElementGuid>44d7fc5c-86dc-406b-8792-da5f571ce8fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='SubmitFilterDashboard()']</value>
+      <webElementGuid>ed618374-4a5e-4a48-a671-c13128b66484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cari Data')]</value>
+      <webElementGuid>0ef117d5-ce63-47e1-bd82-77ae9f1eb328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-Silakan pilih-'])[9]/following::a[1]</value>
+      <webElementGuid>e81a3a1e-2888-48db-94ad-aac4e784c8c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::a[1]</value>
+      <webElementGuid>e9fc08ae-e07f-450e-a2a3-46e964d22da9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Pencarian'])[1]/preceding::a[1]</value>
+      <webElementGuid>ff7d6508-7355-408e-9f99-e2b6877b43e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan :'])[1]/preceding::a[2]</value>
+      <webElementGuid>45d10388-9c75-4d73-b1a3-f8427f717e2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cari Data']/parent::*</value>
+      <webElementGuid>5aedfa0d-0fbd-420b-b5b8-b52a43cbaf78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:void(0)')]</value>
+      <webElementGuid>6668aeb2-4cb0-4d50-a866-bc730f1057cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>4b70e882-e32e-4e6f-b729-2604bd0bc8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = ' Cari Data' or . = ' Cari Data')]</value>
+      <webElementGuid>8ec51a22-101e-44f1-a036-669d67d0414a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

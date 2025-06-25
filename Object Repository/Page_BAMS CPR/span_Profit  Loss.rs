@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Profit  Loss</name>
+   <tag></tag>
+   <elementGuidId>306564c1-dd18-4be0-99ef-4b61bd650d47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-JenisReport-container</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'select2-JenisReport-container' and @title = 'Profit &amp; Loss' and (text() = 'Profit &amp; Loss' or . = 'Profit &amp; Loss')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='select2-JenisReport-results']//li[contains(text(), 'Profit &amp; Loss')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Profit &amp; Loss&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e0142daa-56b4-4af2-a4b2-4200be257e03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>95ab215c-2338-4503-8e0f-ef974183760a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-JenisReport-container</value>
+      <webElementGuid>303d68f2-ed7c-4bd1-b26a-12ad583c3f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Profit &amp; Loss</value>
+      <webElementGuid>e34bf153-e7d4-4dfe-a96d-7fa02022c6fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profit &amp; Loss</value>
+      <webElementGuid>cd21578c-40d0-4fa5-8f71-2c3ad3e688c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-JenisReport-container&quot;)</value>
+      <webElementGuid>ac658004-5c79-4323-bbfa-055257a036e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-JenisReport-container']</value>
+      <webElementGuid>86619b8e-b9ab-45c6-aafe-558ceb8d4ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='divGroup']/div/div/span/span/span/span)[3]</value>
+      <webElementGuid>67cba08a-ba35-49a4-bad8-cf162cd60005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::span[4]</value>
+      <webElementGuid>f004b883-81b1-49d0-a6e8-29a62d1b7181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::span[3]</value>
+      <webElementGuid>b85c3575-8514-47ec-b15b-9e281a00bd0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span/span/span/span</value>
+      <webElementGuid>921331dc-3ff1-4a14-9349-923c2fc2e219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-JenisReport-container' and @title = 'Profit &amp; Loss' and (text() = 'Profit &amp; Loss' or . = 'Profit &amp; Loss')]</value>
+      <webElementGuid>faec6cde-978c-416b-9b2e-dff49c91efcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

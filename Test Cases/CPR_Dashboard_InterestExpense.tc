@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CPR_Dashboard_InterestExpense</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d907a4e-c0b3-471c-9da5-c641f4f28ab5</testCaseGuid>
+</TestCaseEntity>

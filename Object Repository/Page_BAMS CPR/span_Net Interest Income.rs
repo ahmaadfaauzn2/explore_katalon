@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Net Interest Income</name>
+   <tag></tag>
+   <elementGuidId>6ec56496-bafa-4d92-a249-031e011ae34f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-jenisParameter-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[contains(@id, 'jenisParameter-results')]/li[contains(text(), 'Net Interest Income')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Net Interest Income&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c0b04e06-ec8a-4733-bd9c-b96249c2ba90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>6d3e8b07-a42b-4edf-b254-4986a24355e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-jenisParameter-container</value>
+      <webElementGuid>290b3406-0114-400d-87e5-97cbafb9821b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Net Interest Income</value>
+      <webElementGuid>bc3c1d1c-f842-4bff-9acb-c35396fa4314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Net Interest Income</value>
+      <webElementGuid>722281af-0356-433e-a73e-307878de4e60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-jenisParameter-container&quot;)</value>
+      <webElementGuid>fbb5b8b2-877f-4c9f-9bda-b0daffde1585</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-jenisParameter-container']</value>
+      <webElementGuid>14c40ef0-d932-47ed-bc8c-1370af2e2ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::span[4]</value>
+      <webElementGuid>dd9fa989-c02e-48b6-911b-51854ec5562c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/span/span/span/span</value>
+      <webElementGuid>ce17d70e-6fa3-4377-8fb9-58d10f9acc98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-jenisParameter-container' and @title = 'Net Interest Income' and (text() = 'Net Interest Income' or . = 'Net Interest Income')]</value>
+      <webElementGuid>23fa3873-1e0e-47ab-8dcc-e2c7f359cd82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

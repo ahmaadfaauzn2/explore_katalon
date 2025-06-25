@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_-24.356,00</name>
+   <tag></tag>
+   <elementGuidId>17a08064-f747-4ff2-b7c2-09fe659c6129</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.bgRow.rowHeaderPL.rowHeader-12 > td.bgRow.RowValueNumber.PL.segment-Jan_2025_IDR</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tableHistoris']/tbody/tr[151]/td[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;-24.356,00&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d72c321b-9c8c-4849-8e10-19121dfb981c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bgRow RowValueNumber PL segment-Jan_2025_IDR</value>
+      <webElementGuid>655b5c9c-beba-4694-8649-e3911630e494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-24.356,00</value>
+      <webElementGuid>27380fc1-1150-4ab9-a89f-1c70a359cc4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tableHistoris&quot;)/tbody[1]/tr[@class=&quot;bgRow rowHeaderPL rowHeader-12&quot;]/td[@class=&quot;bgRow RowValueNumber PL segment-Jan_2025_IDR&quot;]</value>
+      <webElementGuid>62be8ac4-2288-41f7-9128-27f7c9875ed3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tableHistoris']/tbody/tr[151]/td[5]</value>
+      <webElementGuid>422e2055-fde1-49e6-bc47-cd188a5af272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Interest Expense IDR (MTD)'])[1]/following::td[4]</value>
+      <webElementGuid>9c5d6ba0-6914-400e-9b7c-384a1c2a89c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Total Interest Expense - Consumer (YTD)'])[1]/following::td[13]</value>
+      <webElementGuid>535105b6-49eb-4d23-bef8-bd5782daa084</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Interest Expense IDR (YTD)'])[1]/preceding::td[5]</value>
+      <webElementGuid>4700fe46-7910-49a8-8b24-350c0011992a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[151]/td[5]</value>
+      <webElementGuid>4024e655-5f8b-4397-8ef3-42083d7f8a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '-24.356,00' or . = '-24.356,00')]</value>
+      <webElementGuid>6cc001d9-7bc5-4917-854b-7120fae7233a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_PROFIT AND LOSS</name>
+   <tag></tag>
+   <elementGuidId>fd4022f0-7bfb-4960-8e82-c67c6e6c0c33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bplb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='bplb']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;PROFIT AND LOSS&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>78f39329-9a24-4602-bd3e-e3eb9b9d6925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bplb</value>
+      <webElementGuid>b6b02914-13b7-4b51-bf8a-58d2208342fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tablinks</value>
+      <webElementGuid>bbb1961e-b667-4cbf-a8a2-f7aafe328ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>openTab(event, 'divTabplb')</value>
+      <webElementGuid>b537f697-e4b4-4454-a539-9f07e49a4974</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PROFIT AND LOSS</value>
+      <webElementGuid>577faaeb-711b-484e-8411-424f67ee7cbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bplb&quot;)</value>
+      <webElementGuid>094b9639-4ba6-4c46-84b5-2041d25edd7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='bplb']</value>
+      <webElementGuid>c538cebd-3d1d-4bd6-92dc-f40b45f6cf6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ShowDataHistoris']/div/button[2]</value>
+      <webElementGuid>10e9c257-5f5a-436f-a0a1-bc44815817cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REKAP CIF'])[1]/following::button[1]</value>
+      <webElementGuid>4e33fdd2-1d83-4128-aac8-b4d3d86a73a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Undo'])[1]/following::button[2]</value>
+      <webElementGuid>5a5a23f4-bd40-4b26-a364-8f1eec4a9fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BALANCE SHEET'])[1]/preceding::button[1]</value>
+      <webElementGuid>349fd168-82bb-4277-be1f-9f3edafd0243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FINANCIAL INDICATOR'])[1]/preceding::button[2]</value>
+      <webElementGuid>821e12aa-e9b2-43f4-bfa6-cd8aa1eb864f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PROFIT AND LOSS']/parent::*</value>
+      <webElementGuid>c45352bb-7cc1-4a4a-848d-9c2fd1ae01f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>322cb609-6dae-4604-bd84-d2950168b5d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'bplb' and (text() = 'PROFIT AND LOSS' or . = 'PROFIT AND LOSS')]</value>
+      <webElementGuid>d1f655ef-a3a7-4c02-bffa-55e778f53cad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
