@@ -15,15 +15,7 @@ Project ini dibuat untuk mengotomatisasi testing aplikasi CPR yang mencakup:
 - [x] Dashboard UI/UX testing
 
 ### CPR Data Analysis
-- [x] Data comparison script validation
-
-
-### CPR Reporting
-- [x] Report generation testing
-- [ ] Report accuracy validation
-
-### Integration Testing
-- [x] Database connectivity testing
+- [x] Perbandingan data Dashboard dan HIstoris
 
 ## 🛠️ Instalasi dan Setup
 
@@ -104,11 +96,9 @@ Repository ini berisi test cases untuk aplikasi CPR (Credit Portfolio Risk/Corpo
 
 #### 2. CPR_Dashboard_InterestIncome.tc  
 
-
 #### 3. CPR_Dashboard_NetInterestIncome.tc
 
 #### 4. CPR_Historis.tc
-
 
 #### 5. CPR_CompareScript.tc
 
