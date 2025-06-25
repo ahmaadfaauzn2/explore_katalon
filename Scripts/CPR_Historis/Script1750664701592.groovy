@@ -46,9 +46,9 @@ if (!GlobalVariable.metaClass.hasProperty(GlobalVariable, "historisValues")) {
 // Define segment types and row headers with descriptions
 String[] segmentTypes = ["IDR", "VALAS"]
 Map<String, String> rowHeaderDescriptions = [
-    "rowHeader-12": "Total Interest Income IDR (MTD)",
-    "rowHeader-15": "Total Interest Income VALAS (MTD)",
-    "rowHeader-17": "Total Interest Income IDR dan VALAS (MTD)"
+    "rowHeader-12": "Total Interest Income IDR (MTD) Januari 2025",
+    "rowHeader-15": "Total Interest Income VALAS (MTD) Januari 2025",
+    "rowHeader-17": "Total Interest Income IDR dan VALAS (MTD) Januari 2025"
 ]
 
 // Collect all values before assigning to GlobalVariable
