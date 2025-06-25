@@ -1,6 +1,6 @@
 # Explore Katalon - CPR Testing Automation
 
-Repository ini berisi eksplorasi dan pembelajaran tentang Katalon Studio dengan fokus pada otomasi testing aplikasi CPR (Credit Portfolio Risk/Corporate Performance Reporting). Project ini mencakup testing untuk dashboard, analisis historis, dan fitur perbandingan data.
+Repository ini berisi eksplorasi dan pembelajaran tentang Katalon Studio dengan fokus pada otomasi testing aplikasi CPR (Customer Profitability Report). Project ini mencakup testing untuk dashboard, analisis historis, dan fitur perbandingan data.
 
 ## 📋 Deskripsi
 
@@ -9,35 +9,24 @@ Project ini dibuat untuk mengotomatisasi testing aplikasi CPR yang mencakup:
 - Fitur analisis data historis
 - Sistem perbandingan data antar periode
 - Validasi akurasi kalkulasi finansial
-- Testing performa dan reliability aplikasi CPR
 
 ## 🚀 Fitur yang Dieksplorasi
 
 ### CPR Dashboard Testing
-- [x] Interest Income calculation validation
-- [x] Interest Expense tracking verification  
-- [x] Net Interest Income (NII) formula testing
+- [x] Interest Income  
+- [x] Interest Expense 
 - [x] Dashboard UI/UX testing
-- [ ] Real-time data refresh testing
-- [ ] Multi-user concurrent access testing
 
 ### CPR Data Analysis
-- [x] Historical data analysis testing
 - [x] Data comparison script validation
-- [ ] Trend analysis verification
-- [ ] Forecasting model testing
+
 
 ### CPR Reporting
 - [x] Report generation testing
-- [ ] Export functionality (PDF, Excel)
-- [ ] Scheduled report testing
 - [ ] Report accuracy validation
 
 ### Integration Testing
 - [x] Database connectivity testing
-- [ ] API integration testing
-- [ ] Third-party system integration
-- [ ] Real-time data synchronization
 
 ## 🛠️ Instalasi dan Setup
 
@@ -133,7 +122,7 @@ Test case untuk verifikasi Net Interest Income (NII):
 - Testing berbagai skenario data
 - Validasi tampilan grafik/chart NII
 
-### 🔍 CPR Analysis Test Cases
+### 🔍 CPR Historis And Compare Test Cases
 
 #### 4. CPR_Historis.tc
 Test case untuk fitur historical data analysis:
@@ -149,11 +138,6 @@ Test case untuk fitur comparison/benchmark:
 - Verifikasi accuracy hasil perbandingan
 - Testing various comparison scenarios
 
-#### 6. New Test Case.tc
-Template/placeholder untuk test case baru:
-- Base structure untuk test case baru
-- Common setup dan teardown
-- Standard verification points
 
 ### 🔧 Test Case Structure Example
 
