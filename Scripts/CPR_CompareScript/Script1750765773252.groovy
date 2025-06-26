@@ -60,10 +60,7 @@ println("flatValues: " + GlobalVariable.historisValues)
 
 // Perform comparison with Dashboard Values
 List<String> dashboardValues = GlobalVariable.dashboardValues ?: []
-if (dashboardValues.equals(GlobalVariable.historisValues)) {
-	println("✅ Values match!")
-} else {
-	println("❌ Mismatch detected!")
+
 	println("Dashboard Values: " + dashboardValues)
 	println("Historis Values: " + GlobalVariable.historisValues)
-}
+
