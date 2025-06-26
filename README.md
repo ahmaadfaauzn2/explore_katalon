@@ -146,7 +146,7 @@ WebUI.closeBrowser()
 
 
 ## Hasil
-![image](https://github.com/user-attachments/assets/94b0aac0-dda4-44ae-aa8d-264e323ee67f)
+![image](https://github.com/user-attachments/assets/9327be41-5a11-46f7-8817-a517d33131a8)
 
 
 ## 🔗 Integrasi
